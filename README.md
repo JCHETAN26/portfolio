@@ -1,8 +1,8 @@
 # Data Analyst
 ## Skills
 **Programming:** Python (Pandas, TensorFlow, Numpy, Scikit-learn, Keras, Matplotlib, Seaborn), C++, SQL, R Programming
-**Core Skills:** Data Visualization, Data Mining, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Modeling, Feature Engineering, MS Office
-**Technical Skills:** Power BI, Tableau, MS Excel, Google Looker Studio, SQL Server Management Studio,PostgreSql, SparkSQL, Azure Data Studio, Machine Learning Algorithms, Digital Image Processing, MongoDB
+#**Core Skills:** Data Visualization, Data Mining, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Modeling, Feature Engineering, MS Office
+#**Technical Skills:** Power BI, Tableau, MS Excel, Google Looker Studio, SQL Server Management Studio,PostgreSql, SparkSQL, Azure Data Studio, Machine Learning Algorithms, Digital Image Processing, MongoDB
 
 ## Education					       		
 - M.S., Data Science, Analytics and Engineering	| Arizona State University (_August 2026_)	 			        		
