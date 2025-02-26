@@ -1,11 +1,11 @@
 # Data Analyst
 ## Skills
 **Programming:** Python (Pandas, TensorFlow, Numpy, Scikit-learn, Keras, Matplotlib, Seaborn), C++, SQL, R Programming
+
 **Core Skills:** Data Visualization, Data Mining, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Modeling, Feature Engineering, MS Office
 **Technical Skills:** Power BI, Tableau, MS Excel, Google Looker Studio, SQL Server Management Studio,PostgreSql, SparkSQL, Azure Data Studio, Machine Learning Algorithms, Digital Image Processing, MongoDB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+## Education					       		
 - M.S., Data Science, Analytics and Engineering	| Arizona State University (_August 2026_)	 			        		
 - B.Tech., Computer Science and Engineering | S.R.M Institute of Science and Technology (_June 2024_)
 
