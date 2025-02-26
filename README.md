@@ -5,8 +5,8 @@
 #**Technical Skills:** Power BI, Tableau, MS Excel, Google Looker Studio, SQL Server Management Studio,PostgreSql, SparkSQL, Azure Data Studio, Machine Learning Algorithms, Digital Image Processing, MongoDB
 
 ## Education					       		
-- M.S., Data Science, Analytics and Engineering	| Arizona State University (_August 2026_)	 			        		
-- B.Tech., Computer Science and Engineering | S.R.M Institute of Science and Technology (_June 2024_)
+- **M.S., Data Science, Analytics and Engineering**	| Arizona State University (_August 2026_)	 			        		
+- **B.Tech., Computer Science and Engineering** | S.R.M Institute of Science and Technology (_June 2024_)
 
 ## Work Experience
 **Machine Learning Intern @ IIT Bombay Mood Indigo (_July 2023 - September 2023_)**
@@ -29,14 +29,16 @@ avoidance, line following), with line following algorithm implemented using **Py
 accuracy**, earning significant university acclaim.
 - Showcased expertise in **robotics, mobile app development, and embedded systems.**
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Electric Vehicle Battery Health Monitoring - Machine Learning 
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Managed a team of three to devise an **LSTM-based** model in **Python** for monitoring electric vehicle
+battery health, **incorporating data processing**, **feature engineering**, and **Matplotlib for data visualization.**
+- Achieved **98% accuracy** in battery health assessment, showcasing expertise in **machine learning
+techniques** to support advancements in electric vehicle technology.
+- Received university-wide acclamation for demonstrating the potential usefulness of machine learning in
+electric vehicle research.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
