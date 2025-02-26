@@ -1,7 +1,6 @@
 # Data Analyst
 ## Skills
 **Programming:** Python (Pandas, TensorFlow, Numpy, Scikit-learn, Keras, Matplotlib, Seaborn), C++, SQL, R Programming
-
 **Core Skills:** Data Visualization, Data Mining, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Modeling, Feature Engineering, MS Office
 **Technical Skills:** Power BI, Tableau, MS Excel, Google Looker Studio, SQL Server Management Studio,PostgreSql, SparkSQL, Azure Data Studio, Machine Learning Algorithms, Digital Image Processing, MongoDB
 
@@ -16,15 +15,19 @@ preprocessing data and training the model in Python (Jupyter Notebook).
 - Developed a face detection system, implementing advanced algorithms including Haar Cascades and
 CNNs in Python. Optimized data augmentation and training processes led to 94% accuracy.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**AI / ML Intern @ AICTE Machine Learning Foundations (AWS Academy) (_May 2023 - July 2023_)**
+- Completed an internship through AWS Academy, mastering machine learning fundamentals withcoursework and examination
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### All in One Robot Car 
+[Publication](https://www.jetir.org/view?paper=JETIR2405333)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Led a team of three in developing a multifunctional robot car using **Arduino Uno and C++** with features
+including obstacle avoidance, and Bluetooth control.
+- Created an app with **MIT App Inventor** for seamless mode switching (manual, voice, obstacle
+avoidance, line following), with line following algorithm implemented using **Python** obtaining **93%
+accuracy**, earning significant university acclaim.
+- Showcased expertise in **robotics, mobile app development, and embedded systems.**
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
